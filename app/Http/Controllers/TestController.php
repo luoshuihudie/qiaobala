@@ -8,7 +8,7 @@ class TestController extends Controller
 {
     //
     public function Test(){
-        echo "Test";
+        echo "Test1";
     }
     public function Test2(){
         if(true){
